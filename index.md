@@ -6,7 +6,7 @@ Note: The list of researchers is likely incomplete.
 
 ## Projects
 
-* [WisCom](./WisComm/index.md)
+* [WisComm](/WisComm/index.md)
 
 ## Researchers
 
