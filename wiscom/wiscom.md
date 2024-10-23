@@ -5,10 +5,10 @@ Although seven robots are listed below, only four will be active for the duratio
 
 ## Telepresence Robots
 
-* [Alpha](https://drive.doublerobotics.com/?tls=CYSi3HAI1JUr4z65E2NiQxmty)
-* [Beta](https://drive.doublerobotics.com/?tls=a1b8DCovs4ofh9FMDbZbVorO1)
+* [Alpha](https://drive.doublerobotics.com/?tls=CYSi3HAI1JUr4z65E2NiQxmty){:target="_blank"}
+* [Beta](https://drive.doublerobotics.com/?tls=a1b8DCovs4ofh9FMDbZbVorO1){:target="_blank"}
 * Charlie
-* [Delta](https://drive.doublerobotics.com/?tls=mvvYrbrqdQAgawkzMmmNyAUOV)
-* [Happy](https://drive.doublerobotics.com/?tls=pIcjitMiFMw0eg9hkbr2D8QWv)
+* [Delta](https://drive.doublerobotics.com/?tls=mvvYrbrqdQAgawkzMmmNyAUOV){:target="_blank"}
+* [Happy](https://drive.doublerobotics.com/?tls=pIcjitMiFMw0eg9hkbr2D8QWv){:target="_blank"}
 * Sneezy
 * Bashful
