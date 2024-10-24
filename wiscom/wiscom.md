@@ -5,8 +5,8 @@ Do be aware, each robot can only be connected to by one individual at a time. If
 
 ## Telepresence Robots
 
-* [Alpha](https://drive.doublerobotics.com/?tls=b8uwsXfCinNaB6N50ENQXl26b){:target=""}
-* [Beta](https://drive.doublerobotics.com/?tls=a1b8DCovs4ofh9FMDbZbVorO1){:target=""}
-* [Delta](https://drive.doublerobotics.com/?tls=gCBRTXy2uqDIaDO0AvViwUP9s){:target=""}
-* [Happy](https://drive.doublerobotics.com/?tls=6WQYaPRfOHfnruuZaJ4R7piGF){:target=""}
+* [Alpha](https://drive.doublerobotics.com/?tls=b8uwsXfCinNaB6N50ENQXl26b){:target="_blank"}
+* [Beta](https://drive.doublerobotics.com/?tls=a1b8DCovs4ofh9FMDbZbVorO1){:target="_blank"}
+* [Delta](https://drive.doublerobotics.com/?tls=gCBRTXy2uqDIaDO0AvViwUP9s){:target="_blank"}
+* [Happy](https://drive.doublerobotics.com/?tls=6WQYaPRfOHfnruuZaJ4R7piGF){:target="_blank"}
 
