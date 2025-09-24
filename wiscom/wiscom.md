@@ -9,7 +9,7 @@ Do be aware, each robot can only be connected to by one individual at a time. If
 * [Alpha]([https://drive.doublerobotics.com/?tls=9OICgbKoH8LKzW6lNSmGzINPK#public](https://drive.doublerobotics.com/?tls=DeGnxETFgOkCKfImeJWKYgTIa)){:target="_blank"}
 
 ## Unavailable Telepresence Robots
-* [Beta](){:target="_blank"}
-* [Delta](){:target="_blank"}
-* [Happy](){:target="_blank"}
+* [Beta]()
+* [Delta]()
+* [Happy]()
 
