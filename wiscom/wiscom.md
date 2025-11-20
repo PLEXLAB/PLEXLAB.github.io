@@ -5,7 +5,7 @@ Do be aware, each robot can only be connected to by one individual at a time. If
 
 ## Available Telepresence Robots
 
-### Link Active October 22, 2025, 6:15pm - 8:15pm
+### Link Active November 19, 2025, 6:15pm - 8:15pm
 * [Alpha](https://drive.doublerobotics.com/?tls=i1kPaagvsv85nvV46hykdgObe){:target="_blank"}
 
 ## Unavailable Telepresence Robots
